@@ -1,0 +1,7 @@
+game_date,Actual FP,Actual Min,Actual Val,Ceil FP,Floor FP,L2 FGA,L2 Min,L5 FGA,L5 FP,L5 Min,L5_dvp_rank,L5_ppg_avg,L5_ppg_floor,L5_ppg_max,Opp DEff,Opp DvP,Opp Pace,Player Name,Pos,Proj FP,Proj Min,Proj Val,Rest,S FGA,S FP,S Min,Salary,implied_team_score,injury_status,opp,over_under,position,ppg_projection,salary,spread,team,value_projection
+2019-11-08,7.8,15.1,2.6,8.5,8.5,7,22,7,8.5,22,30,8.5,8.5,8.5,116,6%,105,Jordan McLaughlin,PG,14.7,17.5,4.9,1.0,7,8.5,22,3000,119.5,,GS,227.5,PG,6.5,3000,-11.5,MIN,2.17
+2020-01-18,14.8,21.4,4.9,24.4,3.1,5,16,5,15.9,15,24,16.0,3.8,35.0,102,-2%,103,Jordan McLaughlin,PG,11.6,14.5,3.9,0.0,5,13.7,16,3000,108.8,,TOR,222.5,PG,8.8,3000,5.0,MIN,2.92
+2020-01-22,10.5,17.2,3.5,22.8,4.3,4,16,6,17.9,18,3,18.0,8.8,35.0,105,-14%,102,Jordan McLaughlin,PG,8.6,11.5,2.9,1.0,5,13.6,16,3000,110.5,,CHI,220.0,PG,14.5,3000,-1.0,MIN,4.83
+2020-01-24,15.5,23.5,5.2,22.0,4.5,4,14,4,13.1,17,28,13.1,8.8,20.0,107,1%,106,Jordan McLaughlin,PG,10.5,13.5,3.5,1.0,5,13.3,16,3000,114.5,,HOU,234.5,PG,14.0,3000,5.5,MIN,4.67
+2020-01-25,9.8,20.0,3.3,21.8,5.1,5,20,5,14.4,18,10,14.4,10.5,20.0,106,1%,101,Jordan McLaughlin,PG,10.4,13.5,3.5,0.0,5,13.5,17,3000,113.0,,OKC,225.0,PG,12.8,3000,-1.0,MIN,4.25
+2020-01-27,17.8,22.0,5.9,21.2,5.1,5,22,4,12.3,19,25,12.4,9.8,15.5,109,-4%,100,Jordan McLaughlin,PG,15.6,21.0,5.2,1.0,5,13.1,17,3000,113.3,,SAC,223.5,PG,15.5,3000,-3.0,MIN,5.17

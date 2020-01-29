@@ -1,0 +1,4 @@
+game_date,Actual FP,Actual Min,Actual Val,Ceil FP,Floor FP,L2 FGA,L2 Min,L5 FGA,L5 FP,L5 Min,L5_dvp_rank,L5_ppg_avg,L5_ppg_floor,L5_ppg_max,Opp DEff,Opp DvP,Opp Pace,Player Name,Pos,Proj FP,Proj Min,Proj Val,Rest,S FGA,S FP,S Min,Salary,implied_team_score,injury_status,opp,over_under,position,ppg_projection,salary,spread,team,value_projection
+2019-12-03,3.5,4.0,1.2,10.1,-2.0,4,6,2,4.0,4,11,4.1,0.0,13.5,108,-2%,105,Mfiondu Kabengele,PF/C,0.0,0.0,0.0,1.0,2,4.0,4,3000,120.3,,POR,231.5,PF,5.0,3000,-9.0,LAC,1.67
+2019-12-06,9.5,9.4,3.2,9.4,-1.4,2,5,2,3.4,4,22,3.4,0.0,13.5,100,-3%,107,Mfiondu Kabengele,PF/C,0.0,0.0,0.0,2.0,2,4.0,4,3000,114.3,,MIL,233.0,PF,12.3,3000,4.5,LAC,4.08
+2019-12-08,2.3,1.9,0.8,10.1,-0.6,4,7,3,5.3,6,6,5.3,0.0,13.5,114,-2%,107,Mfiondu Kabengele,PF/C,0.0,0.0,0.0,1.0,2,4.8,5,3000,122.3,,WAS,236.0,PF,2.5,3000,-8.5,LAC,0.83
