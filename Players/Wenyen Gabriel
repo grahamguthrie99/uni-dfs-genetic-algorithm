@@ -1,3 +1,5 @@
 game_date,Actual FP,Actual Min,Actual Val,Ceil FP,Floor FP,L2 FGA,L2 Min,L5 FGA,L5 FP,L5 Min,L5_dvp_rank,L5_ppg_avg,L5_ppg_floor,L5_ppg_max,Opp DEff,Opp DvP,Opp Pace,Player Name,Pos,Proj FP,Proj Min,Proj Val,Rest,S FGA,S FP,S Min,Salary,implied_team_score,injury_status,opp,over_under,position,ppg_projection,salary,spread,team,value_projection
 2019-10-25,1.5,2.6,0.5,1.8,1.8,0,2,0,1.8,2,3,1.8,1.8,1.8,108,-1%,102,Wenyen Gabriel,SF/PF,0.0,0.0,0.0,1.0,0,1.8,2,3000,113.0,,POR,227.5,SF,3.8,3000,1.5,SAC,1.25
 2019-10-26,16.8,20.6,5.6,1.8,1.4,1,2,1,1.6,2,5,1.6,1.5,1.8,103,-10%,103,Wenyen Gabriel,SF/PF,0.0,0.0,0.0,0.0,1,1.6,2,3000,106.0,,UTA,221.5,SF,11.8,3000,9.5,SAC,3.92
+2020-02-01,1.5,2.6,0.5,8.9,-0.8,2,8,1,2.3,6,4,4.3,0.0,10.3,105,-5%,101,Wenyen Gabriel,PF,0.0,0.0,0.0,0.0,2,4.1,6,3000,111.3,,UTA,228.0,PF,4.5,3000,5.5,POR,1.5
+2020-02-04,5.3,11.1,1.8,8.6,-0.9,2,8,1,2.5,5,16,2.6,0.0,4.8,106,-1%,100,Wenyen Gabriel,PF,0.0,0.0,0.0,2.0,2,3.9,6,3000,110.3,,DEN,225.5,PF,2.0,3000,5.0,POR,0.67
