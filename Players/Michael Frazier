@@ -1,6 +1,0 @@
-game_date,Actual FP,Actual Min,Actual Val,Ceil FP,Floor FP,L2 FGA,L2 Min,L5 FGA,L5 FP,L5 Min,L5_dvp_rank,L5_ppg_avg,L5_ppg_floor,L5_ppg_max,Opp DEff,Opp DvP,Opp Pace,Player Name,Pos,Proj FP,Proj Min,Proj Val,Rest,S FGA,S FP,S Min,Salary,implied_team_score,injury_status,opp,over_under,position,ppg_projection,salary,spread,team,value_projection
-2019-10-24,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,3,,,,103,1%,105,Michael Frazier,PG/SG,0.0,0.0,0.0,,0,0.0,0,3000,115.8,O,MIL,230.0,PG,0.0,3000,-1.5,HOU,0.0
-2019-10-26,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,20,,,,110,5%,106,Michael Frazier,PG/SG,0.0,0.0,0.0,1.0,0,0.0,0,3000,125.0,O,NO,238.5,PG,0.0,3000,-11.5,HOU,0.0
-2019-10-30,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,25,,,,111,-4%,104,Michael Frazier,PG/SG,0.0,0.0,0.0,1.0,0,0.0,0,3000,121.0,O,WAS,234.0,PG,0.0,3000,-8.0,HOU,0.0
-2019-11-01,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,8,,,,107,-6%,103,Michael Frazier,PG/SG,0.0,0.0,0.0,1.0,0,0.0,0,3000,124.0,O,BKN,243.5,PG,0.0,3000,-4.5,HOU,0.0
-2019-11-03,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,1,,,,105,-4%,101,Michael Frazier,PG/SG,0.0,0.0,0.0,1.0,0,0.0,0,3000,118.0,O,MIA,233.0,PG,0.0,3000,-3.0,HOU,0.0

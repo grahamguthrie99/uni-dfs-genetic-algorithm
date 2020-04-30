@@ -1,8 +1,0 @@
-game_date,Actual FP,Actual Min,Actual Val,Ceil FP,Floor FP,L2 FGA,L2 Min,L5 FGA,L5 FP,L5 Min,L5_dvp_rank,L5_ppg_avg,L5_ppg_floor,L5_ppg_max,Opp DEff,Opp DvP,Opp Pace,Player Name,Pos,Proj FP,Proj Min,Proj Val,Rest,S FGA,S FP,S Min,Salary,implied_team_score,injury_status,opp,over_under,position,ppg_projection,salary,spread,team,value_projection
-2020-01-13,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,6,,,,113,2%,101,Devontae Cacok,PF,0.0,0.0,0.0,1.0,0,0.0,0,3000,118.0,O,CLE,221.5,PF,0.0,3000,-14.5,LAL,0.0
-2020-01-15,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,14,,,,103,-1%,100,Devontae Cacok,PF,0.0,0.0,0.0,1.0,0,0.0,0,3000,109.8,O,ORL,210.0,PF,0.0,3000,-9.5,LAL,0.0
-2020-01-18,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,4,,,,107,4%,106,Devontae Cacok,PF,0.0,0.0,0.0,2.0,0,0.0,0,3000,116.3,O,HOU,235.5,PF,0.0,3000,3.0,LAL,0.0
-2020-01-22,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,23,,,,111,8%,101,Devontae Cacok,PF,0.0,0.0,0.0,1.0,0,0.0,0,3000,117.3,O,NY,222.5,PF,0.0,3000,-12.0,LAL,0.0
-2020-01-23,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,19,,,,105,-3%,105,Devontae Cacok,PF,0.0,0.0,0.0,0.0,0,0.0,0,3000,117.8,O,BKN,230.5,PF,0.0,3000,-5.0,LAL,0.0
-2020-01-25,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,24,,,,103,-10%,101,Devontae Cacok,PF,0.0,0.0,0.0,1.0,0,0.0,0,3000,111.0,O,PHI,217.5,PF,0.0,3000,-4.5,LAL,0.0
-2020-01-31,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,18,,,,110,0%,104,Devontae Cacok,PF,0.0,0.0,0.0,5.0,0,0.0,0,3000,121.8,O,POR,231.0,PF,0.0,3000,-12.5,LAL,0.0

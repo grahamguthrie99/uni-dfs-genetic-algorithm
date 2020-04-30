@@ -1,4 +1,0 @@
-game_date,Actual FP,Actual Min,Actual Val,Ceil FP,Floor FP,L2 FGA,L2 Min,L5 FGA,L5 FP,L5 Min,L5_dvp_rank,L5_ppg_avg,L5_ppg_floor,L5_ppg_max,Opp DEff,Opp DvP,Opp Pace,Player Name,Pos,Proj FP,Proj Min,Proj Val,Rest,S FGA,S FP,S Min,Salary,implied_team_score,injury_status,opp,over_under,position,ppg_projection,salary,spread,team,value_projection
-2020-01-16,2.8,6.8,0.9,15.9,-3.0,6,14,4,6.4,10,14,4.7,0.0,17.3,105,-4%,105,B.J. Johnson,SG/SF,0.0,0.0,0.0,0.0,4,6.4,10,3000,102.0,,LAC,215.5,SG,4.8,3000,11.5,ORL,1.58
-2020-01-20,0.0,0.0,0.0,13.4,-2.4,7,15,4,5.5,9,4,4.8,0.0,17.3,111,10%,99,B.J. Johnson,SG/SF,0.0,0.0,0.0,1.0,4,5.5,9,3000,105.0,O,CHA,206.0,SG,0.0,3000,-4.0,ORL,0.0
-2020-01-27,4.5,2.5,1.5,11.7,-2.9,2,4,3,4.4,8,26,4.4,0.0,17.3,106,2%,101,B.J. Johnson,SG/SF,0.0,0.0,0.0,0.0,3,4.4,8,3000,102.3,,MIA,210.5,SG,4.8,3000,6.0,ORL,1.58

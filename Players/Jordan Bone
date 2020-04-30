@@ -1,4 +1,0 @@
-game_date,Actual FP,Actual Min,Actual Val,Ceil FP,Floor FP,L2 FGA,L2 Min,L5 FGA,L5 FP,L5 Min,L5_dvp_rank,L5_ppg_avg,L5_ppg_floor,L5_ppg_max,Opp DEff,Opp DvP,Opp Pace,Player Name,Pos,Proj FP,Proj Min,Proj Val,Rest,S FGA,S FP,S Min,Salary,implied_team_score,injury_status,opp,over_under,position,ppg_projection,salary,spread,team,value_projection
-2019-12-28,0.0,0.0,0.0,3.6,-1.6,2,2,2,1.0,2,17,1.0,-0.5,4.0,109,7%,103,Jordan Bone,PG,0.0,0.0,0.0,1.0,2,1.0,2,3000,108.3,O,SA,221.0,PG,0.0,3000,4.5,DET,0.0
-2019-12-30,0.0,0.0,0.0,3.6,-1.6,2,2,2,1.0,2,17,1.0,-0.5,4.0,104,-1%,102,Jordan Bone,PG,0.0,0.0,0.0,1.0,2,1.0,2,3000,104.0,O,UTA,217.0,PG,0.0,3000,9.0,DET,0.0
-2020-01-02,0.0,0.0,0.0,3.6,-1.6,2,2,2,1.0,2,18,1.0,-0.5,4.0,103,-1%,105,Jordan Bone,PG,0.0,0.0,0.0,2.0,2,1.0,2,3000,105.5,O,LAC,223.5,PG,0.0,3000,12.5,DET,0.0

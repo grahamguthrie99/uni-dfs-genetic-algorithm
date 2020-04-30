@@ -1,6 +1,0 @@
-game_date,Actual FP,Actual Min,Actual Val,Ceil FP,Floor FP,L2 FGA,L2 Min,L5 FGA,L5 FP,L5 Min,L5_dvp_rank,L5_ppg_avg,L5_ppg_floor,L5_ppg_max,Opp DEff,Opp DvP,Opp Pace,Player Name,Pos,Proj FP,Proj Min,Proj Val,Rest,S FGA,S FP,S Min,Salary,implied_team_score,injury_status,opp,over_under,position,ppg_projection,salary,spread,team,value_projection
-2019-10-22,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,22,,,,109,4%,104,Talen Horton-Tucker,SG/SF,0.0,0.0,0.0,,0,0.0,0,3000,113.8,O,LAC,224.0,SG,0.0,3000,-3.5,LAL,0.0
-2019-10-25,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,6,,,,103,-1%,103,Talen Horton-Tucker,SG/SF,0.0,0.0,0.0,2.0,0,0.0,0,3000,109.8,O,UTA,216.0,SG,0.0,3000,-3.5,LAL,0.0
-2019-10-27,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,24,,,,110,0%,101,Talen Horton-Tucker,SG/SF,0.0,0.0,0.0,1.0,0,0.0,0,3000,115.5,O,CHA,217.5,SG,0.0,3000,-13.5,LAL,0.0
-2019-10-29,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,23,,,,106,-4%,99,Talen Horton-Tucker,SG/SF,0.0,0.0,0.0,1.0,0,0.0,0,3000,114.5,O,MEM,217.5,SG,0.0,3000,-11.5,LAL,0.0
-2019-11-08,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0,22,,,,97,1%,108,Talen Horton-Tucker,SG/SF,0.0,0.0,0.0,2.0,0,0.0,0,3000,113.5,O,MIA,218.5,SG,0.0,3000,-8.5,LAL,0.0
